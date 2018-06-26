@@ -1,0 +1,10 @@
+build
+dist
+*.egg-info
+*.egg
+*.log
+*.pyo
+*.pyc
+__pycache__
+.idea
+temp/*
